@@ -1,3 +1,4 @@
+When programming in Angular keep these instructions in mind:
 When you update a component, be sure to put the logic in the ts file, the styles in the css file and the html template in the html file.
 
 ## Resources
