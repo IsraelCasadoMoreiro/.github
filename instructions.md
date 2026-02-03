@@ -15,7 +15,7 @@ This `.github` repository is a special GitHub repository that allows organizatio
 
 #### 2. **Carpeta Profile** (`/profile/README.md` o `/profile/instructions.md`)
 - **Propósito / Purpose**: Contenido que aparece en la página de perfil de la organización
-- **Visibilidad / Visibility**: Pública - Se muestra en https://github.com/[org-name]
+- **Visibilidad / Visibility**: Pública - Se muestra en https://github.com/{org-name}
 - **Uso recomendado / Recommended use**: Presentación de la organización, misión, valores
 
 #### 3. **Carpeta .github** (`/.github/instructions.md`)
@@ -34,7 +34,7 @@ Este repositorio puede contener:
 - **ISSUE_TEMPLATE/** - Plantillas para issues
 - **PULL_REQUEST_TEMPLATE.md** - Plantilla para pull requests
 - **workflow-templates/** - Plantillas de workflows reutilizables
-- **copilot-instructions.md** - Instrucciones para GitHub Copilot (ya existe)
+- **copilot-instructions.md** - Instrucciones para GitHub Copilot
 - **CODE_OF_CONDUCT.md** - Código de conducta
 - **CONTRIBUTING.md** - Guía de contribución
 - **SECURITY.md** - Política de seguridad
